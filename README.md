@@ -30,7 +30,6 @@
 - 搭配高分范文示例，帮助考生在首段就抓住考官眼球
 - 支持与其他仓库联动使用：  
   - [`ielts-task1-verbs-collection`](https://github.com/Charleszhang631/ielts-task1-verbs-collection)  
-  - [`ielts-task1-templates`](https://github.com/Charleszhang631/ielts-task1-templates)
 
 ---
 
